@@ -1,7 +1,7 @@
 # SniperMan V1.1
 
 This Tool is used to make DDos attack on server from any Devices
-![SniperMan](https://i.ibb.co/3h8dbfg/dwa.png)
+![SniperMan](https://i.ibb.co/QdMmp70/das.png)
 
 # How it Works? 
  It sends continous packet to the target server and stop the service of server .
@@ -20,26 +20,13 @@ DDos attack with Botnet
 Botnet:
 A botnet is a number of Internet-connected devices, each of which is running one or more bots. Botnets can be used to perform Distributed Denial-of-Service attacks, steal data, send spam, and allows the attacker to access the device and its connection.
 
-## Installing (linux/termux/Mac os):
-```
-apt-get update -y
-apt-get install git
-git clone https://github.com/BOT-CODER/SniperMan.git
-cd SniperMan
-python3 SniperMan.py
-
-```
-## One line Installation:
-```
-apt-get update -y && apt-get install git && git clone https://github.com/BOT-CODER/SniperMan.git && cd SniperMan && python3 SniperMan.py
-
-```
 ## Installing (Windows):
 ```
 Download .exe file from the bellow link and just run it
 
 https://github.com/BOT-CODER/SniperMan/tree/windows
 ```
+[Quick Download exe file](https://github.com/BOT-CODER/SniperMan/raw/windows/SniperMan.exe)
 
 ## OUR Youtube channel:
 
