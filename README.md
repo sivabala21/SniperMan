@@ -40,6 +40,7 @@ Download .exe file from the bellow link and run it
 
 https://github.com/BOT-CODER/SniperMan/tree/windows
 ```
+[ Quick download exe file](https://github.com/BOT-CODER/SniperMan/raw/windows/SniperMan.exe)
 
 ## OUR Youtube channel:
 
