@@ -36,7 +36,7 @@ apt-get update -y && apt-get install git && git clone https://github.com/BOT-COD
 ```
 ## Installing (Windows):
 ```
-Download .exe from the bellow link and just run it
+Download .exe file from the bellow link and just run it
 
 https://github.com/BOT-CODER/SniperMan/tree/windows
 ```
