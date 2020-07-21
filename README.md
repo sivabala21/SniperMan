@@ -1,7 +1,7 @@
-# SniperMan V1.0
+# SniperMan V1.1
 
 This Tool is used to make DDos attack on server from any Devices
-![SniperMan](https://i.ibb.co/LYHdSjr/IMG-20200502-131701.jpg)
+![SniperMan](https://i.ibb.co/3h8dbfg/dwa.png)
 
 # How it Works? 
  It sends continous packet to the target server and stop the service of server .
@@ -26,13 +26,12 @@ apt-get update -y
 apt-get install git
 git clone https://github.com/BOT-CODER/SniperMan.git
 cd SniperMan
-bash setup.sh
 python3 SniperMan.py
 
 ```
 ## One line Installation:
 ```
-apt-get update -y && apt-get install git && git clone https://github.com/BOT-CODER/SniperMan.git && cd SniperMan && bash setup.sh && python3 SniperMan.py
+apt-get update -y && apt-get install git && git clone https://github.com/BOT-CODER/SniperMan.git && cd SniperMan && python3 SniperMan.py
 
 ```
 ## Installing (Windows):
@@ -45,6 +44,6 @@ python Sniperman.py
 
 ## OUR Youtube channel:
 
-![Tech Core](https://www.youtube.com/channel/UCQ-LKudsVwfoXRhvDF2-vGQ?sub_confirmation=1)
+[Tech Core](https://www.youtube.com/channel/UCQ-LKudsVwfoXRhvDF2-vGQ?sub_confirmation=1)
 
 (subscribe for hacking stuff videos )
