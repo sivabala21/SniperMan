@@ -58,7 +58,7 @@ def update():
 	from bs4 import BeautifulSoup as soup
 	page=urequest.urlopen('https://pastebin.com/G7gFkwfb').read()
 	soup=soup(page,'html.parser')
-	version=soup.find(id='paste_code').text
+	version=soup.find('div',class_='de1').text
 	if version>de_version:
 		import webbrowser
 		print(Fore.CYAN + "Version " + Fore.MAGENTA + version + Fore.CYAN + " is Avaiable")
