@@ -46,7 +46,7 @@ bytes = random._urandom(1490)
 #############
 def chech_con():
 	try:
-		request.urlopen('https://www.google.com',timeout=3)
+		request.urlopen('https://www.google.co.in/',timeout=3)
 	except KeyboardInterrupt:
 		print(Fore.RED + "Stopped by User" + Fore.RESET)
 		exit()
