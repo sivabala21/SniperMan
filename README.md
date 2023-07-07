@@ -40,8 +40,4 @@ https://github.com/BOT-CODER/SniperMan/tree/windows
 ```
 [ Quick download exe file](https://github.com/BOT-CODER/SniperMan/raw/windows/SniperMan.exe)
 
-## OUR Youtube channel:
 
-[Tech Core](https://www.youtube.com/channel/UCQ-LKudsVwfoXRhvDF2-vGQ?sub_confirmation=1)
-
-(subscribe for hacking stuff videos )
