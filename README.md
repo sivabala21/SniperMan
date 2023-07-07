@@ -5,7 +5,7 @@ This Tool is used to make Dos attack on server from any Devices
 
 # How it Works? 
  It sends continous packet to the target server and stop the service of server .
-This attack is known as DDos attack
+This attack is known as Dos attack
 
 ## What is Dos Attack?
   <p>In a  denial-of-service attack (DoS attack), the incoming traffic flooding the victim originates from Attacker. This effectively makes it impossible to stop the attack simply by blocking a single source.</p>
@@ -16,7 +16,7 @@ The Code is written in python3 so Dont worry it works well without Bug
 
 
 Botnet:
-A botnet is a number of Internet-connected devices, each of which is running one or more bots. Botnets can be used to perform Distributed Denial-of-Service attacks, steal data, send spam, and allows the attacker to access the device and its connection.
+A botnet is a number of Internet-connected devices, each of which is running one or more bots. Botnets can be used to perform Distributed Denial-of-Service attacks, steal data, send spam, and allows the attacker to access the device and its connection. This program Does not Provide Botnet System !
 
 ## Installing (linux/termux/Mac os):
 ```
